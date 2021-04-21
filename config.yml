@@ -3,6 +3,7 @@ description: How to bake a cake in 4 easy steps
 template:
   repo: baking-a-cake-template
   name: baking-a-cake
+  description: Cake-Bake
 before:
   - type: createIssue
     title: Welcome!
